@@ -5,4 +5,16 @@
 
 body {
     background-color: rgba(21, 103, 21, 0.825);
+    color: bisque;
 }
+
+.inputs {  
+  padding: 10px;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
