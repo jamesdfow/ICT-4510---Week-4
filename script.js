@@ -31,5 +31,3 @@ document.querySelector("#output").appendChild(paragraph);
 
 document.getElementById("formButton").onclick = getData
 
-
-
