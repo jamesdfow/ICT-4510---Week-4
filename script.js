@@ -29,5 +29,5 @@ paragraph.appendChild(textNode);
 document.querySelector("#output").appendChild(paragraph);
 }
 
-document.getElementById("formButton").onclick = getData
+document.getElementById("formButton").onclick = getData;
 
