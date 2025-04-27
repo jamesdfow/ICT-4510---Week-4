@@ -1,7 +1,7 @@
 /*
 James Fowler
 ICT 4510
-12 April, 2025
+27 April, 2025
 
 Collects form input, builds a message using the user's data, 
 and displays it dynamically in the HTML page
